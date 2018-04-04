@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+
+    <Button
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:id="@+id/send_button"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Sign Out"
+        android:textColor="@android:color/white"
+        android:background="@android:color/holo_blue_dark"
+        android:onClick="onSignOut"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

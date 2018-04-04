@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "235575861584",
+    "firebase_url": "https://flash-chat-bcf6d.firebaseio.com",
+    "project_id": "flash-chat-bcf6d",
+    "storage_bucket": "flash-chat-bcf6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235575861584:android:20ce588c9251b221",
+        "android_client_info": {
+          "package_name": "com.navido.loginverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235575861584-qoliregoptfebb9ns9trpm1qhrv2i5i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navido.loginverify",
+            "certificate_hash": "905df87eefe8e503aebdd9baf4771d6bfdb3cf2a"
+          }
+        },
+        {
+          "client_id": "235575861584-97vsf7j4p1ukraph86sevcsm0448c3ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcRbh09nqpHK769AmeqSXq7ItqEVpjdC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235575861584-97vsf7j4p1ukraph86sevcsm0448c3ti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235575861584-a3st4k8250328cov4edpvg2uij7s45q8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ancheng.flashchat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
